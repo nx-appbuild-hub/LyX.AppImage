@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=LyX Document Processor (2.3 pre-release)
+GenericName=Document Processor
+Comment=High level LaTeX frontend
+Exec=AppRun %U
+Icon=lyx
+StartupNotify=false
+StartupWMClass=Lyx
+Terminal=false
+Categories=Office;WordProcessor;Qt;
+MimeType=text/x-lyx;application/x-lyx;
