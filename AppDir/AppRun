@@ -6,4 +6,4 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH
 
 cd ${HOME}
 
- ${APPDIR}/application/lyx2.3pre $@
+ ${APPDIR}/application/lyx2.3pre "$@"
